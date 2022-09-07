@@ -34,4 +34,4 @@
 
 ## Website
 
-[Deployed Budget App](https://budget-application-1999.herokuapp.com/)
+[Deployed Budget App](https://app-for-budget-tracking.herokuapp.com/)
